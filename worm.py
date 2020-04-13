@@ -4,7 +4,7 @@
 # Status: Development              #
 # Date created: 7/6/2018           #
 ####################################
-import nmap
+
 import paramiko
 import os
 import coloredlogs, logging
